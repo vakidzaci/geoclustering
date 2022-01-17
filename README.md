@@ -1,1 +1,1 @@
-My final solution was to Normalized combination of give distance matrix and euclidian distance of geolocations.
+My final solution was to use Normalized combination of given distance matrix and euclidian distance of geolocations.
